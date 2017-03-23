@@ -1,0 +1,2 @@
+http://rfid.ctu.edu.tw/rueychi/4_class/102_2Android/
+https://github.com/googlesamples/android-BluetoothChat
